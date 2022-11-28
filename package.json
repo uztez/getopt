@@ -1,0 +1,14 @@
+{
+  "name": "@uztez/getopt",
+  "version": "1.0.0",
+  "description": "getopt",
+  "main": "src/getopt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "getopt"
+  ],
+  "author": "Kangli",
+  "license": "ISC"
+}
